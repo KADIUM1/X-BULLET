@@ -1,3 +1,3 @@
 # X-BULLET
 X BULLET is a Discord Tool for multiple things
-![image](https://user-images.githubusercontent.com/116384757/210658263-78181666-4360-49d1-9e49-66bbd158d5f9.png)
+![Screenshot_20230104_225039](https://user-images.githubusercontent.com/116384757/210658314-c5b8effc-04d3-40f6-b78d-9288dc0ea680.jpg)
